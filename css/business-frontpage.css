@@ -1,0 +1,26 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/templates/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.logo{
+font-family: 'PT Serif', serif;
+font-weight: bold;
+font-size:1.5rem;
+color:#333333;
+}
+.custom-header{
+padding-top: 200px;
+font-family: 'PT Serif', serif;
+color:#333333;
+}
+.custom-text{
+font-family: 'PT Serif', serif;
+}
+.text-footer{
+color:#828282;
+font-size:0.75rem;
+}
