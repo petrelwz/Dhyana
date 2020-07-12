@@ -6,12 +6,12 @@
 body {
   padding-top: 56px;
 }
-.logo{
+/*.logo{
 font-family: 'PT Serif', serif;
 font-weight: bold;
 font-size:1.5rem;
 color:#333333;
-}
+}*/
 .custom-header{
 font-family: 'PT Serif', serif;
 color:#243761;
@@ -22,4 +22,14 @@ font-family: 'PT Serif', serif;
 .text-footer{
 color:#828282;
 font-size:0.75rem;
+}
+
+.custom-image{
+	min-width:50%;
+	max-width: 100%;
+}
+@include media-breakpoint-up(sm) {
+  .custom-image{
+    height:300px;
+  }
 }
